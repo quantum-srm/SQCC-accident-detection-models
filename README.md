@@ -1,2 +1,2 @@
 # SQCC-accident-detection-models
-model useful for detecting accident and causality
+## "Models useful for detecting accident and causality"
